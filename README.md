@@ -1,5 +1,5 @@
 # Reactjs-WebApplication
-I took up this project with the intrest on UI Development and I try to showcase all the things I learned in developing this web application. 
+I took up this project with the interest on UI Development and I try to showcase here all the things I learned in developing this web application. 
 This is my first step in my career willing to step towards my Intrest, hope this project would help me in upskilling my knowlege.
 
 First you will be thinking why she took Reactjs as first preference in upskilling?
