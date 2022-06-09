@@ -1,0 +1,14 @@
+import React from "react";
+const App= () =>{
+  return(
+    <div>
+      <center>
+        <h1>
+          My First Programme in React JS !!!
+        </h1>
+      </center>
+    </div>
+  )
+}
+
+export default App;
