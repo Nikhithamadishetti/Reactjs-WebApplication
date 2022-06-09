@@ -1,7 +1,25 @@
-# Reactjs-WebApplication
-I took up this project with the interest on UI Development and I try to showcase here all the things I learned in developing this web application. 
-This is my first step in my career willing to step towards my Intrest, hope this project would help me in upskilling my knowlege.
+I have Interest towards Creating WEB-APPLICATIONS so before starting this i could have zero knowledge on where to start and what to start?
 
-First you will be thinking why she took Reactjs as first preference in upskilling?
+I came to know javaScript is now in booming and used everywhere, I have core knowlege on Java and oops concepts and little knowlege on html,css and java script
 
-This is suggested my elder sister and which is now in booming as well,Then it is a free and open-source front-end js library for building user interfaces based on UI components which starters like me would learn easily.
+I know all these but dono how to make use of them to create a complete web application.
+
+I tried watching videos and going through materials and blogs, but not able to understand the way to start and create a application on my own.Because if one want create an application fully he need have knowledge on many things the only thing i knew.
+
+Later i came to know that there is certain procedure in this...we need to have knowlege on front-end technolgies , Back-end technologies and Data handling techniques such as CURD techniques,creating and designing API's andIntegrating them with both frontend and backend etc...
+
+Then I took reference of a Channel and started towards my Intrest :)
+
+Here i am creating a simple web application on React js 
+
+# Reactjs-WebApplication-Reactjs
+
+Tools Used: Visualstudio,nodejs,cmd prompt
+
+Downloading and Installatoin -Visual Studio:
+
+
+Installing Node.js:
+
+
+
