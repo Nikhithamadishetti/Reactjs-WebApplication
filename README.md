@@ -12,7 +12,7 @@ Then I took reference of a Channel and started towards my Intrest :)
 
 Here i am creating a simple Ecommerce web application in Reactjs.
 
-# Reactjs-WebApplication-Reactjs!!!!
+# WebApplication-Reactjs!!!!
 
 # Pre requisites of creating a reactjs app:
 
