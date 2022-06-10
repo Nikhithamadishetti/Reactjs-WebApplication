@@ -20,6 +20,12 @@ Here i am creating a simple Ecommerce web application in Reactjs.
 2.A package manager called "npm". It is automatically included in your installation of Node. You need to have an npm version of at least 5.2.
 3.A good code editor to work with our project files. I highly recommend using the editor Visual Studio Code. You can grab it at "code.visualstudio.com."
 
+# creating reactjs app!!!
 
-
+1.open cmd prompt and type node --version u can see the version
+2.type npx create-react-app (Appname) ex:my-app
+3.type npm install react-scripts@latest to install latest scripts 
+4.type npm i react-router-dom@6 to install latest packages
+5.then open vs studio and import the my-app.
+6.for a fresh look of site open terminal and type npm run start.
 
