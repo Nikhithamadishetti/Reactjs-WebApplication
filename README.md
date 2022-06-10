@@ -12,14 +12,13 @@ Then I took reference of a Channel and started towards my Intrest :)
 
 Here i am creating a simple Ecommerce web application in Reactjs.
 
-# Reactjs-WebApplication-Reactjs
+# Reactjs-WebApplication-Reactjs!!!!
 
-Tools Used: Visualstudio,nodejs,cmd prompt
+# Pre requisites of creating a reactjs app:
 
-Downloading and Installatoin -Visual Studio:
-
-
-Installing Node.js:
+1.Node installed on your computer. You can download Node at "nodejs.org." Create React App requires a Node version of at least 10.
+2.A package manager called "npm". It is automatically included in your installation of Node. You need to have an npm version of at least 5.2.
+3.A good code editor to work with our project files. I highly recommend using the editor Visual Studio Code. You can grab it at "code.visualstudio.com."
 
 
 
